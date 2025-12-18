@@ -1,3 +1,6 @@
+## Rapport
+Il me reste des chose a fixer dans le rapport
+
 # Étude de Cas : Analyse Scalabilité/Performance des APIs Modernes
 
 <img width="1920" height="1020" alt="rest api 1000 threads" src="https://github.com/user-attachments/assets/4ba2b5dd-6bc3-43ae-8436-87bf64577142" />
